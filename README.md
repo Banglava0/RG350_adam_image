@@ -375,7 +375,7 @@ By default the image is configured to make use of USB access in `Ethernet > RNDI
 
 Here are some cool shortcuts that can be used with the OpenDingux system, SimpleMenu, RetroArch, and standalone emulators.
 
-|Context|Shorcut|Function|
+|Context|Shortcut|Function|
 |:--------|:---------------|:-----|
 |OpenDingux|Hold Power|Power off|
 |OpenDingux|Power + Start + Select|Reboot|
@@ -517,7 +517,7 @@ If a specific game does not work with the default emulator, press `Select` in th
 Another situation in which we should change the emulator option is when the game runs slow. In addition to the choppy sound, the best way to measure if the game is moving fast enough is to activate the frames per second or FPS counter. In RetroArch we can activate the option for a particular game in the menu `Main Menu > Settings > On-Screen Display > On-Screen Notifications > Notification Visibility > Display Framerate`, but if we want to activate it in general, we must first close the content that we are executing. This would be the procedure described in detail.
 
 1. Launch any game that runs with RetroArch (for example, all Handheld systems are configured with RetroArch by default).
-2. Open RetroArch meny pressing `Select + X`.
+2. Open RetroArch menu pressing `Select + X`.
 3. Select `Close Content` menu.
 4. Follow the path: `Main Menu > Settings > On-Screen Display > On-Screen Notifications > Notification Visibility`.
 5. Enable `Display Framerate`.
